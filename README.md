@@ -1,1 +1,38 @@
-# JupyterNotebookWorkshopFall19
+## Jupyter Notebook Workshop Spring 19
+### For SDSU AI Club
+
+#### Files Included:
+
+- Intro.ipynb, An introduction to Jupyter Notebook's features.
+
+- SpeakerNotes.txt, for me in case I panic.
+
+- README.md, this file.
+
+#### Requirements for this workshop:
+
+- [Jupyter Notebook](https://jupyter.org/install)
+- [Python(3)](https://www.python.org/)
+
+ **Note:** You can install [Anaconda](https://www.anaconda.com/) and not worry about the above.
+
+
+#### How to set this workshop up?
+
+1. Clone or download this workshop to your machine.
+
+2. Make sure you have Jupyter Notebook installed.
+
+3. In your terminal or Conda Prompt for Windows Users, type `jupyter notebook`.
+    - **Note:** In your terminal, you can notice that a local server is running, that is called the notebook server. Do NOT terminate the server while the notebook is running.
+    
+4. Direct to the cloned repository's location and click on either Intro.ipynb or Iris.ipynb.
+
+#### Some cool links and my references:
+
+- https://guides.github.com/features/mastering-markdown/
+- https://github.com/DarpanBeri/JupyterNotebookWorkshop18
+- https://playground.tensorflow.org/
+- http://rogerdudler.github.io/git-guide/
+- https://www.kaggle.com/skalskip/iris-data-visualization-and-knn-classification
+- https://www.youtube.com/results?search_query=jupyter+notebook
