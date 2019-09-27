@@ -27,7 +27,7 @@ There are two modes in jupyter notebook, kinda like. There is Command mode and e
 	2.a. Enter allows you to put your self in Edit mode. 
 	2.b. Ctrl+ Enter to execute the code in the cell
 
-From the printing of ya_boy, yo can see that The cells also act as a terminal window of sorts.
+From the printing of prez, you can see that The cells also act as a terminal window of sorts.
 The numbers on the cell determine and show the execution order. The rule of thumb is to have stuff in order to help readablility.
 
 Special Commands to run other language's code.
